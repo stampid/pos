@@ -1,0 +1,42 @@
+.menuboxfont{
+    text-align: center;
+}
+
+#storeName{
+    font-style: italic;
+}
+
+.restName {
+    height: 60px;
+    width : 70%;
+    border: 1px solid black;
+ }
+ .restName p{
+    vertical-align: middle;
+    text-align: center;
+ }
+ .clock {
+    height : 60px;
+    width : 25%;
+    border : 1px solid black;
+ }
+ 
+ .header {
+    display: inline-block;
+    vertical-align: middle;
+ }
+ .middle {
+    display: inline-block;
+    width: 45%;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 2px;
+ }
+ 
+ .menu {
+  width: 250px;
+  height: 200px;
+  float: left;
+  border: 1px solid red;
+  margin: 10px;
+ }
